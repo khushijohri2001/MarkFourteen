@@ -1,0 +1,52 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Text&display=swap');
+
+.container{
+    text-align: center;
+    background-image: linear-gradient(#c8ffdc,#86EFAC,#38f77e) ;
+}
+
+h1{
+    padding: 2rem;
+    font-size: 3rem;
+    color: #15803D;
+}
+
+ label{
+    display: block;
+    font-size: 1.2rem;
+    color: #14532D;
+    font-weight: bold;
+   
+}
+input{
+    text-align: center;
+    margin: 1rem;
+    font-size: 1.2rem;
+    background-color: #d0ffe1;
+
+}
+
+button{
+    padding: 0.6rem;
+    font-size: 1.6rem;
+    margin: 2rem;
+    background-color: #d0ffe1;
+    color: #14532D;
+    font-weight: bold;
+}
+
+h2{
+  padding: 1rem;
+  color: #046904;
+}
+
+h3{
+    color: #00521f;
+    margin-top: 10rem;
+    padding: 2rem;
+}
